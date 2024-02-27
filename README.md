@@ -22,3 +22,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Disclaimer
 This project is for educational and demonstration purposes only. Use it responsibly and adhere to AbhiBus's terms of service.
+
+## Credits
+This project was developed by [Chintakindi Bhargav Sri Harshith](https://github.com/harshith1817).
