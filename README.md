@@ -1,4 +1,4 @@
-# AbhiBus Automation Testing Project
+# Automation Testing of Ticket Booking Website
 
 ## Overview
 This repository contains automation testing scripts developed for testing the ticket booking functionality of the AbhiBus website. The scripts are designed to ensure the robustness and reliability of the booking system through automated testing procedures.
