@@ -5,7 +5,7 @@ This repository contains automation testing scripts developed for testing the ti
 
 ## Features
 - **Test Scenarios**: Includes a comprehensive suite of test scenarios covering various aspects of the ticket booking process such as login, search, seat selection, payment, and confirmation.
-- **Framework**: Utilizes a combination of Selenium WebDriver and TestNG framework to automate the testing process.
+- **Framework**: Utilizes a combination of Selenium WebDriver to automate the testing process.
 - **Modular Structure**: Organized into modular components for easy maintenance and scalability.
 - **Reporting**: Generates detailed test reports to facilitate analysis and troubleshooting.
 
